@@ -1,5 +1,7 @@
 # Solarbitrage — Solar Energy Arbitrage Terminal
 
+![Solarbitrage Dashboard](solarbitrage_scrshot.png)
+
 A real-time solar energy trading dashboard for the German and Austrian EPEX spot market. It combines live solar irradiance data, grid metrics, and AI-powered market intelligence to generate buy/sell/hold signals for solar energy arbitrage.
 
 ---
