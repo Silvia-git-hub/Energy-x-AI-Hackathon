@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+node_modules/
+.DS_Store
+*.nc
+*.h5
+*.hdf5
+data_gen
