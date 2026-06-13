@@ -29,7 +29,7 @@ DATA TO RETRIEVE (in this order):
 
 3. WEATHER & SOLAR IRRADIANCE (next 4–8h)
    Use these sources in priority order (1 = most trusted for solar irradiance):
-     1. Meteoblue (meteoblue.com) — shortwave radiation, direct & diffuse radiation
+     1. Global Solar Atlas (https://globalsolaratlas.info/map) — shortwave radiation, direct & diffuse radiation
      2. Ventusky (ventusky.com) — cloud cover, wind speed
      3. WetterOnline (wetteronline.de) — general forecast cross-check
      4. Windinfo (windinfo.eu) — longer-range cross-check only
