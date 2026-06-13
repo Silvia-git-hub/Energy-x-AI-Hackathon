@@ -22,7 +22,7 @@ DATA TO RETRIEVE (in this order):
    yesterday's price at this same hour (for comparison)
 
 2. PRICE FORECAST (next 4–8h)
-   Sources: SMARD forecast data, Energy Charts (energy-charts.info), 
+   Sources: Energy Charts (energy-charts.info) (more important source), SMARD forecast data, 
    Montel News if accessible
    Retrieve: Expected price direction and any forecast values available.
    If sources conflict, report both and note the discrepancy.
